@@ -1,5 +1,5 @@
 # GoogleCharts-DrillDown
 
-Just html file to see chart. 
+Just run html file to see chart. 
 
 Data stucture is in JS

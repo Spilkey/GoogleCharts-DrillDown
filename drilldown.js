@@ -453,8 +453,7 @@
                 'easing': 'inAndOut',
                 'duration': 1000
             },
-            'colors': ['blue', 'green']
-
+            'colors': ['blue', 'orange']
         };
 
         var view = set_view(data);
@@ -528,6 +527,7 @@
             }
         };
         draw();
+
     }
     google.load('visualization', '1', {
         packages: ['corechart'],
